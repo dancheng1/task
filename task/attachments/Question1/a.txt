@@ -1,0 +1,16 @@
+请求总量为：132585
+请求最频繁的10个 HTTP 接口，及其相应的请求数量列表为:
+1.23396次，请求路径为：GET /duty/getToDoDutyCount.json?arg1=var1&arg2=var2
+2.16192次，请求路径为：GET /twell/public.htm?arg1=var1&arg2=var2
+3.16052次，请求路径为：GET /notification/queryMessageByUid.htm?arg1=var1&arg2=var2
+4.9584次，请求路径为：GET /twell/querytwellDetailForMobile.htm?arg1=var1&arg2=var2
+5.6085次，请求路径为：GET /geo/coord2city.json?arg1=var1&arg2=var2
+6.5826次，请求路径为：GET /twell/private.htm?arg1=var1&arg2=var2
+7.5585次，请求路径为：GET /user/getResources.json?arg1=var1&arg2=var2
+8.5300次，请求路径为：GET /user/getUserInfo.json?arg1=var1&arg2=var2
+9.5154次，请求路径为：GET /location/getOneAuthCity.htm?arg1=var1&arg2=var2
+10.4878次，请求路径为：POST /user/postDeviceInfo.htm
+POST请求量为：16010
+GET请求量：116575
+URI 格式为 /AAA/BBB的请求量：120041
+URI 格式为 /AAA/BBB/CCC的请求量：5198
